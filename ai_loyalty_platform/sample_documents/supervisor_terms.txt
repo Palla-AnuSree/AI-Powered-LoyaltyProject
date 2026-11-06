@@ -1,0 +1,43 @@
+# SUPERVISOR TERMS AND CONDITIONS
+## AI Loyalty Platform
+
+### 1. Role and Responsibilities
+- Supervisors are responsible for monitoring assigned outlet users and operational activities.
+- Supervisors must ensure that outlet users follow approved loyalty program procedures.
+- Supervisors must use their assigned accounts for all platform activities.
+
+### 2. Team Management
+- Supervisors can monitor the performance of authorized outlet users.
+- Supervisors can review assigned outlet sales and achievement reports.
+- Supervisors must escalate unusual activities or policy violations.
+- Supervisors cannot assign administrator privileges.
+
+### 3. Sales Verification
+- Supervisors must review suspicious or disputed sales transactions.
+- Invoice information must be verified before recommending corrections.
+- Duplicate or invalid sales entries must be escalated.
+- Supervisors must not approve transactions that violate loyalty program rules.
+
+### 4. Target and Achievement Monitoring
+- Supervisors can monitor sales targets and achievements for assigned outlets.
+- Target calculations follow the active campaign configuration.
+- Supervisors must report discrepancies in target calculations.
+- Changes to campaign rules require authorized administrative approval.
+
+### 5. Reward Management
+- Supervisors can monitor reward point transactions and redemption activities within their permitted access.
+- Supervisors cannot independently manipulate customer point balances.
+- Suspicious reward transactions must be escalated to the administration team.
+
+### 6. Data Privacy
+- Supervisors must protect customer and outlet information.
+- Reports must only be accessed for authorized business purposes.
+- Confidential information must not be shared outside approved channels.
+
+### 7. Escalation
+- Suspected fraudulent activity must be reported to the administrator.
+- Customer disputes that cannot be resolved at outlet level must be escalated to support.
+- Supervisors must maintain accurate records of escalated issues.
+
+### 8. Acknowledgement
+By accessing the platform, supervisors agree to follow these sample terms and organizational policies.

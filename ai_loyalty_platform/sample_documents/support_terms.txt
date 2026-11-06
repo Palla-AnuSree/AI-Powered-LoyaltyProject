@@ -1,0 +1,41 @@
+# CUSTOMER SUPPORT TERMS AND CONDITIONS
+## AI Loyalty Platform
+
+### 1. Support Responsibilities
+- Support users are responsible for handling customer queries related to the loyalty platform.
+- Support users must provide accurate information based on approved policies.
+- Support users must maintain professional communication with customers.
+
+### 2. Customer Query Management
+- Support users can investigate questions about reward points, transactions and redemption.
+- Customers may request assistance with missing points, failed redemptions and account access issues.
+- Each complaint should be recorded and tracked through the approved support process.
+
+### 3. Reward Point Disputes
+- Support users must verify transaction details before responding to point-related complaints.
+- Invoice details and transaction references may be requested for verification.
+- Support users must not manually change reward point balances unless explicitly authorized through an approved process.
+
+### 4. Redemption Support
+- Support users can assist customers with voucher, cashback and merchandise redemption queries.
+- Redemption status must be checked before providing confirmation.
+- Failed redemption requests should be escalated to the relevant fulfillment team.
+
+### 5. Account Assistance
+- Support users can assist customers with login and account-related issues.
+- Identity verification must be completed before sharing sensitive account information.
+- Passwords and OTPs must never be requested from customers.
+
+### 6. Data Privacy
+- Customer personal information must remain confidential.
+- Support users must access customer records only when necessary to resolve authorized queries.
+- Customer information must not be downloaded or shared without permission.
+
+### 7. Escalation Process
+- Technical issues must be escalated to the technical team.
+- Reward calculation disputes must be escalated to the loyalty operations team.
+- Suspected fraud must be escalated to the administrator.
+- Unresolved customer complaints must follow the approved escalation process.
+
+### 8. Acknowledgement
+By using the platform, support users agree to follow these sample terms and applicable organizational policies.

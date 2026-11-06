@@ -1,0 +1,11 @@
+Loyalty Program Policy
+
+1. Customers earn 10 reward points for every 100 rupees spent.
+
+2. Customers can redeem their accumulated points for available rewards.
+
+3. Reward points cannot be transferred between customer accounts.
+
+4. Customers must have an active loyalty account to earn reward points.
+
+5. Points earned from purchases are credited after successful transaction confirmation.

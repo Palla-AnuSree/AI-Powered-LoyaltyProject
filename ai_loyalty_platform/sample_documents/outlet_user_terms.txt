@@ -1,0 +1,43 @@
+# OUTLET USER TERMS AND CONDITIONS
+## AI Loyalty Platform
+
+### 1. Account Responsibilities
+- Outlet users can access the platform only through their assigned accounts.
+- Each outlet user is associated with an authorized outlet.
+- Outlet users must not share their login credentials.
+- Outlet users must not access information belonging to unauthorized outlets.
+
+### 2. Sales Entry
+- Outlet users are responsible for entering accurate sales information.
+- Sales entries must contain valid invoice numbers, purchase dates, brand information and eligible sales amounts.
+- Duplicate invoice submissions are prohibited.
+- Incorrect sales information must be reported for correction.
+
+### 3. Reward Point Processing
+- Reward points are calculated according to the configured loyalty program rules.
+- Outlet users cannot manually modify customer reward point balances.
+- Only eligible and verified transactions can generate reward points.
+- Transactions rejected by the system must be reviewed through the authorized process.
+
+### 4. Customer Information
+- Outlet users must collect and process customer information only for authorized business purposes.
+- Customer mobile numbers and personal details must remain confidential.
+- Customer information must not be shared with unauthorized parties.
+
+### 5. Reward Redemption
+- Outlet users may assist customers with eligible reward redemption processes.
+- Redemption must follow configured reward eligibility and availability rules.
+- Outlet users must not process unauthorized or duplicate redemption requests.
+
+### 6. Outlet Performance
+- Outlet users can view reports and dashboards permitted for their assigned outlet.
+- Sales and target information must be accurate.
+- Any discrepancy in outlet performance reports must be reported to the supervisor.
+
+### 7. Prohibited Activities
+- Manipulating sales entries to generate additional reward points is prohibited.
+- Creating fraudulent invoices is prohibited.
+- Accessing another outlet's records without authorization is prohibited.
+
+### 8. Acknowledgement
+By using the platform, outlet users agree to follow these sample terms and the applicable outlet operating policies.

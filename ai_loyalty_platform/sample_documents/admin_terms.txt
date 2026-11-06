@@ -1,0 +1,39 @@
+# ADMIN TERMS AND CONDITIONS
+## AI Loyalty Platform
+
+### 1. Purpose
+The Admin is responsible for managing and maintaining the loyalty platform, including users, outlets, campaigns, rewards and platform configurations.
+
+### 2. User Management
+- Admins can create customer, outlet user, supervisor and support accounts.
+- Admins are responsible for assigning appropriate roles and access permissions.
+- Admins must deactivate accounts that are no longer authorized to use the platform.
+- Admins must not share temporary passwords or login credentials through unsecured channels.
+
+### 3. Loyalty Program Management
+- Admins can configure loyalty campaigns and reward programs.
+- Admins can define reward point rules, eligibility criteria and redemption limits.
+- Any modification to reward calculations must be reviewed before activation.
+- Changes to active campaigns must be communicated to affected users.
+
+### 4. Reward Configuration
+- Admins can configure reward categories, voucher values and redemption limits.
+- Admins must ensure that reward configurations follow approved business policies.
+- Duplicate or fraudulent reward configurations are prohibited.
+
+### 5. Data Privacy and Security
+- Admins must protect customer information, including mobile numbers and personal identification details.
+- Customer information must not be disclosed to unauthorized individuals.
+- Admin access credentials must remain confidential.
+- Admins must report suspected data breaches immediately.
+
+### 6. Reporting and Monitoring
+- Admins can access platform-wide reports and dashboards.
+- Admins are responsible for monitoring unusual transactions and system activity.
+- Reports containing customer information must be handled securely.
+
+### 7. Policy Violations
+Unauthorized access, data misuse or manipulation of reward transactions may result in account suspension and further investigation.
+
+### 8. Acknowledgement
+By accessing the platform, the Admin agrees to follow these sample terms and the applicable organizational policies.

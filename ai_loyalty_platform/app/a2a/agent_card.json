@@ -1,0 +1,17 @@
+{
+  "name": "Loyalty Order Agent",
+  "description": "Checks loyalty reward order status and cancellation eligibility.",
+  "url": "http://localhost:8101",
+  "version": "0.1.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "skills": [
+    {
+      "id": "order-status",
+      "name": "Check order status",
+      "description": "Retrieve an authenticated customer's reward order status."
+    }
+  ]
+}

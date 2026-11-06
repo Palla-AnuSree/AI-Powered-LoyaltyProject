@@ -1,0 +1,45 @@
+# CUSTOMER TERMS AND CONDITIONS
+## AI Loyalty Platform
+
+### 1. Program Eligibility
+- Customers must have an active registered loyalty account.
+- Each customer must use their registered mobile number to access the platform.
+- Customer accounts are personal and cannot be transferred to another individual.
+
+### 2. Reward Point Earning
+- Customers earn 10 reward points for every ₹100 spent on eligible purchases, subject to campaign rules.
+- Points are calculated based on approved sales transactions.
+- Points are credited only after successful transaction confirmation.
+- Cancelled, rejected or invalid transactions are not eligible for reward points.
+
+### 3. Reward Point Redemption
+- Customers can redeem accumulated points for available rewards.
+- Redemption is subject to the customer's available point balance.
+- Some rewards may have minimum point requirements.
+- Once a redemption is successfully completed, the redeemed points are deducted from the customer's account.
+
+### 4. Reward Point Expiry
+- Reward points may have an expiry date depending on the applicable campaign.
+- Expired points cannot be redeemed.
+- Customers should review their point balance and expiry information regularly.
+
+### 5. Point Transfer
+- Reward points cannot be transferred between customer accounts.
+- Customers cannot sell, exchange or transfer reward points to another person.
+
+### 6. Account Security
+- Customers are responsible for protecting their login credentials.
+- Customers must not share their passwords or OTPs.
+- Suspected unauthorized account activity should be reported to customer support.
+
+### 7. Transaction Disputes
+- Customers can contact customer support if eligible purchase points are missing.
+- Customers may be required to provide invoice or transaction details.
+- All disputes are subject to transaction verification.
+
+### 8. Fraudulent Activities
+- Artificial transactions, duplicate invoice submissions and misuse of promotional offers are prohibited.
+- Accounts involved in suspected fraudulent activity may be temporarily suspended pending investigation.
+
+### 9. Acknowledgement
+By participating in the loyalty program, customers agree to follow these sample terms and applicable campaign conditions.

@@ -1,0 +1,32 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: ai_loyalty_db
+    environment:
+      POSTGRES_DB: ai_loyalty
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - loyalty_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d ai_loyalty"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build: .
+    container_name: ai_loyalty_api
+    env_file: .env
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - .:/code
+
+volumes:
+  loyalty_pgdata:
