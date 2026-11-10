@@ -9,6 +9,7 @@ python-multipart>=0.0.9
 email-validator>=2.2
 pytest>=8.0
 httpx>=0.27
+langgraph-checkpoint-postgres
 
 # GenAI / Agentic AI dependencies (used in later implementation phases)
 langchain>=0.3
